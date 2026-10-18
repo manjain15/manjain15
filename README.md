@@ -24,7 +24,8 @@ Second-year UNSW student doing a double degree in **Computer Science and Mathema
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- Updates automatically every few hours.
+- 🔨 Pushed 1 commit to [manjain15/jarvis](https://github.com/manjain15/jarvis)
+- 🔀 Merged PR [#36](None) in [manjain15/jarvis](https://github.com/manjain15/jarvis)
 <!--END_SECTION:activity-->
 
 ## Projects
