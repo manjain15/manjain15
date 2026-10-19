@@ -19,18 +19,17 @@ Second-year UNSW student doing a double degree in **Computer Science and Mathema
 
 - **Nfinity Financials:** part-time AI & Workflow Automation Analyst, building AI-driven pipelines for a mortgage brokerage with the Claude API, Vapi, Playwright and Twilio.
 - **UNSW AISoc:** on the Projects Subcom, working on team projects like an RL agent for FallGuys (Unity ML-Agents) and an agentic event-planning system.
-- **Jarvis:** a personal assistant I run on my own server (below).
+- **Vanam:** a personal assistant I run on my own server (below).
 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit to [manjain15/jarvis](https://github.com/manjain15/jarvis)
-- 🔀 Merged PR [#36](None) in [manjain15/jarvis](https://github.com/manjain15/jarvis)
+- 🔨 Pushed to [manjain15/vanam](https://github.com/manjain15/vanam)
 <!--END_SECTION:activity-->
 
 ## Projects
 
-### [Jarvis](https://github.com/manjain15/jarvis)
+### [Vanam](https://github.com/manjain15/vanam)
 A personal assistant that runs my day as a student. It plans study blocks around my timetable, writes them to Google Calendar, and checks what actually happened against real data (Hevy workouts, Google Health steps, calendar, phone events) instead of asking me.
 
 - Built around a loop: **commit → verify → escalate → adapt**

@@ -47,7 +47,10 @@ def describe(event: dict) -> tuple[str, str] | None:
     if kind == "PullRequestEvent":
         pr = payload.get("pull_request", {})
         action = "Merged" if pr.get("merged") else payload.get("action", "updated").capitalize()
-        return f"pr:{pr.get('html_url')}", f"🔀 {action} PR [#{pr.get('number')}]({pr.get('html_url')}) in {link}"
+        # The events API can omit html_url, so build the link from the number.
+        number = pr.get("number") or payload.get("number")
+        url = pr.get("html_url") or f"https://github.com/{repo}/pull/{number}"
+        return f"pr:{url}", f"🔀 {action} PR [#{number}]({url}) in {link}"
     if kind == "IssuesEvent" and payload.get("action") == "opened":
         issue = payload["issue"]
         return f"issue:{issue['html_url']}", f"❗ Opened issue [#{issue['number']}]({issue['html_url']}) in {link}"
