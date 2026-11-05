@@ -24,12 +24,12 @@ Second-year UNSW student doing a double degree in **Computer Science and Mathema
 ## Recent activity
 
 <!--START_SECTION:activity-->
+- 🔀 Opened PR [#13](https://github.com/manjain15/vanam/pull/13) in [manjain15/vanam](https://github.com/manjain15/vanam)
+- 🔀 Merged PR [#12](https://github.com/manjain15/vanam/pull/12) in [manjain15/vanam](https://github.com/manjain15/vanam)
 - 🔀 Merged PR [#11](https://github.com/manjain15/vanam/pull/11) in [manjain15/vanam](https://github.com/manjain15/vanam)
 - 🔀 Merged PR [#10](https://github.com/manjain15/vanam/pull/10) in [manjain15/vanam](https://github.com/manjain15/vanam)
 - 🔀 Merged PR [#9](https://github.com/manjain15/vanam/pull/9) in [manjain15/vanam](https://github.com/manjain15/vanam)
 - 🔨 Pushed 1 commit to [manjain15/vanam](https://github.com/manjain15/vanam)
-- 🔀 Merged PR [#8](https://github.com/manjain15/vanam/pull/8) in [manjain15/vanam](https://github.com/manjain15/vanam)
-- 🔀 Merged PR [#7](https://github.com/manjain15/vanam/pull/7) in [manjain15/vanam](https://github.com/manjain15/vanam)
 <!--END_SECTION:activity-->
 
 ## Projects
